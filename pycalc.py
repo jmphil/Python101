@@ -5,9 +5,9 @@
 # meal = float(input("Enter meal amount: "))
 # tip = str(input("How was your service? "))
 
-# if tip == ('good'):
+# if tip = ('good'):
 #     print(f"\nTip amount: {meal * .20:.2f}")
-# elif tip == ("fair"):
+# elif tip = ("fair"):
 #     print(f"\nTip amount: {meal * .15:.2f}")
 # else :
 #     print (f"\nTip amount: {meal * .10:.2f}")
@@ -31,3 +31,7 @@
 #     print(f"\nTip amount: {meal * .15:.2f}")
 # else :
 #     print (f"\nTip amount: {meal * .10:.2f}")
+
+
+
+
