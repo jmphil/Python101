@@ -1,15 +1,16 @@
 # Tip Calculator
 
-# good = .20
-# fair = .15
-# bad = .10
+
 
 meal = float(input("Enter meal amount:"))
+tip = str(input("How was your service?"))
 
-tip = int(input("How was your service?"))
-
-
-
+if tip == ('good'):
+    print(f"\nTip amount: {meal * .20:.2f}")
+elif tip == ("fair"):
+    print(f"\nTip amount: {meal * .15:.2f}")
+else :
+    print (f"\nTip amount: {meal * .10:.2f}")
 
 # tip_amount = int(meal * tip/100)
 # total = meal + tip
