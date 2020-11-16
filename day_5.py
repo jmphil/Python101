@@ -22,3 +22,21 @@
 #C to F conversion--------------------
 
 #F = (C * 9/5) + 32
+
+# celsius = float(input("Enter temperature in celsius: "))
+# fahrenheit = (celsius * 9/5) + 32
+
+# print(f"Temperatur in Fahrenheit: {fahrenheit}")
+
+
+#F to C -----------------------
+
+# fahrenheit = float(input("Enter temperature in Fahrenheit: "))
+# celsius = (fahrenheit- 32) * 5/9
+
+# print(f"Temperature in Celsius : {celsius:.2f}")
+
+# 4. is_even function
+# Write a function that accepts a number as an argument and returns a Boolean value.
+# Return True if the number is even; return False if it is not even.
+
