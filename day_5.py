@@ -40,3 +40,4 @@
 # Write a function that accepts a number as an argument and returns a Boolean value.
 # Return True if the number is even; return False if it is not even.
 
+print (500 * 90)
